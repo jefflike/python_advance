@@ -1,5 +1,0 @@
-'''
-__title__ = '010.super的调用顺序.py'
-__author__ = 'Jeffd'
-__time__ = '4/15/18 6:30 PM'
-'''
