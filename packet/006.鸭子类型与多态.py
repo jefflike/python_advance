@@ -28,6 +28,7 @@ class goose:
     def swim(self):
         print('goose swimming')
 
+
 class swim_pig:
 
     def swim(self):
@@ -38,7 +39,7 @@ class swim_pig:
 fish = duck
 fish().swim() # duck swimming
 # 如果我根据他们都会游泳把他叫做鱼类型，这就是鸭子类型
-
+# 通过魔法函数，对象可以72变，比如本来是鸡，但是通过定义魔法函数，就变成了鸭子
 '''
 面向对象的java实现鸭子类型是基于继承完成的
 写一点java的伪代码
